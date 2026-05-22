@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got that untamed rhythm in the way that you walk
+> A little sweet temptation in the way that you talk
+> I pour a glass of bourbon but I'm drinking you in
+> You're the kind of beautiful where trouble begins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
